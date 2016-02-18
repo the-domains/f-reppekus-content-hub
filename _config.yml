@@ -1,0 +1,14 @@
+layout_spectrum: 0.5622986
+color:
+  saturation: 0
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#FBFBFB'
+    - '#CFCFCF'
+    - '#919191'
+    - '#5C5C5C'
+    - '#161616'
+  rhythmicContrast: 0.3754028
+typography_spectrum: 0.8995703
+name: 'F. Reppekus | Content Hub'
